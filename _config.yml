@@ -16,9 +16,7 @@
 title: Mtalaki Fednand
 email: mtalakifednand@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Welcome to my site. It helps to summarize projects I have done.
 twitter_username: mtalaki_feddy
 github_username: MtalakiFednand
 minimal_mistakes_skin: mint
@@ -50,12 +48,12 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+ # - jekyll-paginate
+  #- jekyll-sitemap
+ # - jekyll-gist
+#  - jekyll-feed
+ # - jemoji
+  #- jekyll-include-cache
 
 author: Fednand Mtalaki
   name   : "Fednand Mtalaki"
