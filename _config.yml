@@ -48,14 +48,14 @@ include:
 
 # Plugins (previously gems:)
 plugins:
- # - jekyll-paginate
-  #- jekyll-sitemap
- # - jekyll-gist
-#  - jekyll-feed
- # - jemoji
-  #- jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-author: Fednand Mtalaki
+author: 
   name   : Fednand Mtalaki
   avatar : "/assets/images/bio-photo.jpg"
   bio    : Security Analyst
