@@ -55,8 +55,8 @@ plugins:
  # - jemoji
   #- jekyll-include-cache
 
-author: Fednand Mtalaki
-  name   : "Fednand Mtalaki"
+author:Fednand Mtalaki
+  name   :"Fednand Mtalaki"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Security Analyst"
   links:
