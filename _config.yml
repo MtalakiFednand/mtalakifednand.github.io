@@ -68,12 +68,12 @@ author: Fednand Mtalaki
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    #- label: "GitHub"
+   #   icon: "fab fa-fw fa-github"
+     # url: "https://github.com/MtalakiFednand/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/mtalakifednand/"
 
 footer:
   links:
