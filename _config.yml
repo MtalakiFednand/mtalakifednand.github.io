@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author: 
-  name   : Fednand Mtalaki
+  name   : "Fednand Mtalaki"
   avatar : "/assets/images/Profile photo.jpg"
   bio    : Security Analyst
   links:
