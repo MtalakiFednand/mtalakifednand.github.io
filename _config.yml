@@ -57,7 +57,7 @@ plugins:
 
 author: 
   name   : "Fednand Mtalaki"
-  avatar : "/assets/images/Profile image.jpg"
+  avatar : "/assets/images/Profile photo.jpg"
   bio    : Security Analyst
   links:
     - label: "Website"
