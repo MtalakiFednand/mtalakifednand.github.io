@@ -1,6 +1,6 @@
 ---
-permalink: /Labs/
-title: "labs"
+permalink: /Completed Labs/
+title: "Completed Labs"
 ---
 The following are labs I have completed in Hack the Box and Try hackme platform.
 - **HACK THE BOX**
