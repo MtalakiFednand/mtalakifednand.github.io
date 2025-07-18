@@ -1,8 +1,8 @@
 main:
-  - title: "Labs"
+  - title: "Completed Labs"
     url: /Completed Labs/
   - title: "Technical Reports"
-    url: /technical reports/
+    url: /Technical Reports/
   - title: "Certifications"
     url: /Certifications/
   #- title: "About"
