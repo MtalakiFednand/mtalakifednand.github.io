@@ -14,6 +14,16 @@ The following are labs I have completed in Hack the Box and Try hackme platform.
   - Python scripting
   4. Scanning & Enumeration
   - DNS in detail
-  
+  5. Networking Fundamentals
+  - Introduction to Networking
+  6. Threat & Vulnerability Management
+  - Vulnerability Assessment
+  7. Access Control Security
+    -Using the Metasploit Framework
+  8. Web Application Security
+    - Attacking Web Applications with Ffuf
+  9. Database Security
+   - SQL Injection Fundamentals
+   
 
     
