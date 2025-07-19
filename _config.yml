@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -66,9 +66,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    #- label: "GitHub"
-   #   icon: "fab fa-fw fa-github"
-     # url: "https://github.com/MtalakiFednand/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+     url: "https://linkedin.com/MtalakiFednand/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/mtalakifednand/"
