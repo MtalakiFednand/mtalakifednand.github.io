@@ -8,9 +8,10 @@ author_profile: true
 I am a **Security Analyst** in training, actively sharpening my skills to become a seasoned SOC Analyst. 
 
 My learning journey is hands-on and driven by curiosity, with practical experience gained through platforms like Hack The Box and 
-TryHackMe. I am passionate about threat detection, incident response, and continuous upskilling to stay ahead in the ever-evolving cybersecurity landscape.
+TryHackMe and mentorship from Cyber Security industry experts . I am passionate about threat intelligence & detection, incident response, Vulnerability Assesment & Penetration Testing and continuous upskilling to stay ahead in the ever-evolving cybersecurity landscape.
 
 I have undertaken specialized cybersecurity training at:
 1. Cyber Shujaa Security Analyst course
 2. Microsoft ADC Cybersecurity Skilling program
 3. Africahackon Academy
+4. APISec University
