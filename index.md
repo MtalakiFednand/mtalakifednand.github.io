@@ -11,7 +11,8 @@ My learning journey is hands-on and driven by curiosity, with practical experien
 TryHackMe and mentorship from Cyber Security industry experts . I am passionate about threat intelligence & detection, incident response, Vulnerability Assesment & Penetration Testing and continuous upskilling to stay ahead in the ever-evolving cybersecurity landscape.
 
 I have undertaken specialized cybersecurity training at:
-1. Cyber Shujaa Security Analyst course
-2. Microsoft ADC Cybersecurity Skilling program
-3. Africahackon Academy
-4. APISec University
+1. Africahackon Academy
+2. APISec University
+3. Microsoft ADC Cybersecurity Skilling program
+4. Cyber Shujaa Security Analyst Training
+   
