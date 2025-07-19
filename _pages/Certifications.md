@@ -1,9 +1,9 @@
 ---
-title: "Certifications"
-layout: Certifications
 permalink: /Certifications/
-author_profile: true
+title: "Certifications"
 ---
-To demostrate the skills learnt through the trainin, this page shows my certificates in regards to Cyber Security training:
+
+To demostrate the skills learnt through the training, this page shows the certificates earned:
 1. Africahackon Academy - Cyber Security Beginner Course
+   
    
