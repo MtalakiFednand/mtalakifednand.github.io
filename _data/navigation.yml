@@ -1,12 +1,13 @@
 main:
-  - title: "Completed Labs"
-    url: /Completed Labs/
-  - title: "Projects"
-    url: /Projects/
-  - title: "Certifications"
-    url: /Certifications/
-  - title: "Contact me"
-   url: /Contact me/
-  - title: "Resume Outline"
-   url: /Resume Outline/
+- title: "Completed Labs"
+  url: /Completed Labs/
+- title: "Projects"
+  url: /Projects/
+- title: "Certifications"
+  url: /Certifications/
+- title: "Contact me"
+  url: /Contact me/
+- title: "Resume Outline"
+  url: /Resume Outline/
+
        
