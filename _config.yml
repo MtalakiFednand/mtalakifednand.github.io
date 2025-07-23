@@ -88,7 +88,7 @@ footer:
 defaults:
    _posts
   - scope:
-      #path: ""
+      path: ""
       type: posts
     values:
       layout: single
@@ -97,7 +97,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+    _pages
   - scope:
       path: "_pages"
       type: pages
